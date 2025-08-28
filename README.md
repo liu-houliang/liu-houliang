@@ -27,5 +27,4 @@ I'm a Backend Developer hailing from Henan, China, focus on building robust and 
 ### 📫 How to Reach Me 
 
 - 📧 Email: admin@liuhouliang.com
-- ✍️ Blog: [liuhouliang.com](https://liuhouliang.com)   
 
