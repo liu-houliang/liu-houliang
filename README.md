@@ -1,6 +1,6 @@
 
 ### 👨‍💻 About Me 
-I'm a Backend Developer from Henan, China, focus on building efficient systems using Go. Also I'm on a journey to one day create my own indie games.
+I'm a Backend Developer from China, focus on building efficient systems using Go. Also I'm on a journey to one day create my own indie games.
 
 ---
 
