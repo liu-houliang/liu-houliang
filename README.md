@@ -8,7 +8,7 @@ I'm a Backend Developer from China, focus on building efficient systems using Go
 
 | Project Name         | Description                                                                 | Link                                                                |
 | -------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| 📝 Hugo Blog | My personal blog where I write about web development, tech, and life. | [**Read My Blog**](https://liuhouliang.com)                            |
+| 📝 Hugo Blog | My personal blog where I write about web development, tech, and life. | [**Read My Blog**](https://liuhouliang.com/en/)                            |
 | 🛠️ Price Calculator | A powerful online toolkit designed to simplify everyday calculations. | [**Live Site**](https://pricecalc.net)                             |
 
 ---
