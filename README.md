@@ -15,8 +15,8 @@ I'm a Backend Developer from China, focus on building efficient systems using Go
 
 ### 🛠️ My Skills
 
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=go,docker,linux,mysql,redis,react" />
+<p class="skills-icons" align="left">
+  <img src="https://skillicons.dev/icons?i=go,docker,linux,mysql,redis,react" />
 </p>
 
 
